@@ -5,14 +5,14 @@
   padding: 20px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  border-right: 2px solid #b80eb2;
+  border-right: 2px solid #7e1d7a;
 }
 
 .sidebar__title {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #3a3e41;
+  color: #b5b5b5;
   margin-bottom: 30px;
 }
 
@@ -36,11 +36,11 @@
   font-size: 18px;
   display: none;
   margin-left: 15px;
-  color: #b80eb2;
+  color: #7e1d7a;
 }
 
 .sidebar__menu>h2 {
-  color: #b80eb2;
+  color: #7e1d7a;
   font-size: 16px;
   margin-top: 15px;
   margin-bottom: 5px;
@@ -51,7 +51,7 @@
 .trade-btn,
 .farm-btn,
 .stake-btn {
-  color: #b80eb2;
+  color: #7e1d7a;
   font-size: 11px;
   margin-top: 15px;
   margin-bottom: 5px;
@@ -92,7 +92,7 @@
 }
 
 .sidebar__link {
-  color: #3a3e41;
+  color: #b5b5b5;
   padding: 10px;
   border-radius: 3px;
   margin-bottom: 5px;
@@ -100,7 +100,7 @@
 
 .sidebar__link>a {
   text-decoration: none;
-  color: #3a3e41;
+  color: #b5b5b5;
   font-weight: 700;
 }
 
@@ -128,7 +128,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #3a3e41;
+  color: #b5b5b5;
   margin-top: 100px;
 }
 

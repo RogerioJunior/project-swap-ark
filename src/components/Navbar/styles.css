@@ -6,7 +6,7 @@
     align-items: center;
     justify-content: right;
     padding: 0 30px 0 30px;
-    border-bottom: 1px solid #b80eb2;
+    border-bottom: 1px solid #7e1d7a;
   }
   
   .nav_icon {
@@ -15,7 +15,7 @@
   
   .nav_icon > i {
     font-size: 26px;
-    color: #b80eb2;
+    color: #7e1d7a;
   }
   
   .navbar__right {
@@ -25,8 +25,8 @@
   }
   
   .navbar__right > button {
-    background-color: #b80eb2;
-    color: #3a3e41;;
+    background-color: #7e1d7a;
+    color: #b5b5b5;
     font-size: 16px;
     border-radius: 5px;
     padding: 7px;

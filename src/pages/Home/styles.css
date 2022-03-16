@@ -20,14 +20,14 @@
 
 .home__greeting>h1 {
     font-size: 45px;
-    color: #3a3e41;
+    color: #b5b5b5;
     margin-bottom: 5px;
 }
 
 .home__greeting>p {
     font-size: 18px;
     font-weight: 700;
-    color: #3a3e41;
+    color: #b5b5b5;
 }
 
 .home__cards {
@@ -59,20 +59,20 @@
 
 .cards__left__title>div>h1 {
     font-size: 28px;
-    color: #b80eb2;
+    color: #7e1d7a;
     margin-bottom: 5px;
 }
 
 .cards__left__title>div>p {
     font-size: 14px;
     font-weight: 700;
-    color: #3a3e41;
+    color: #b5b5b5;
 }
 
 .cards__left__title>i {
-    color: #3a3e41;
+    color: #b5b5b5;
     font-size: 20px;
-    background: #b80eb2;
+    background: #7e1d7a;;
     border-radius: 200px 0px 200px 200px;
     -moz-border-radius: 200px 0px 200px 200px;
     -webkit-border-radius: 200px 0px 200px 200px;
@@ -102,20 +102,20 @@
 
 .cards__right__title>div>h1 {
     font-size: 28px;
-    color: #b80eb2;
+    color: #7e1d7a;
     margin-bottom: 5px;
 }
 
 .cards__right__title>div>p {
     font-size: 14px;
     font-weight: 700;
-    color: #3a3e41;
+    color: #b5b5b5;
 }
 
 .cards__right__title>i {
-    color: #3a3e41;
+    color: #b5b5b5;
     font-size: 20px;
-    background: #b80eb2;
+    background: #7e1d7a;;
     border-radius: 200px 0px 200px 200px;
     -moz-border-radius: 200px 0px 200px 200px;
     -webkit-border-radius: 200px 0px 200px 200px;
@@ -132,7 +132,7 @@
 
 .card__lef1 {
     background: #161616;
-    color: #3a3e41;
+    color: #b5b5b5;
     text-align: center;
     padding: 25px;
     border-radius: 5px;
@@ -145,7 +145,7 @@
 
 .card__right1 {
     background: #161616;
-    color: #3a3e41;
+    color: #b5b5b5;
     display: flex;
     align-items: center;
     justify-content: center;
