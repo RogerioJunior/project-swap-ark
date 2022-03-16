@@ -12,7 +12,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #f3f4f6;
+  color: #3a3e41;
   margin-bottom: 30px;
 }
 
@@ -92,7 +92,7 @@
 }
 
 .sidebar__link {
-  color: #f3f4f6;
+  color: #3a3e41;
   padding: 10px;
   border-radius: 3px;
   margin-bottom: 5px;
@@ -100,7 +100,7 @@
 
 .sidebar__link>a {
   text-decoration: none;
-  color: #a5aaad;
+  color: #3a3e41;
   font-weight: 700;
 }
 
@@ -108,13 +108,13 @@
 
 .active_menu_link {
   padding: 7px;
-  background: rgba(190, 81, 233, 0.404);
+  background: rgba(190, 81, 233, 0.219);
   border-radius: 3px;
 }
 
 .sidebar__link a:focus {
   padding: 7px;
-  background: rgba(190, 81, 233, 0.404);
+  background: rgba(190, 81, 233, 0.219);
   border-radius: 3px;
 }
 
@@ -128,7 +128,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #f3f4f6;
+  color: #3a3e41;
   margin-top: 100px;
 }
 

@@ -20,14 +20,14 @@
 
 .home__greeting>h1 {
     font-size: 45px;
-    color: #f3f4f6;
+    color: #3a3e41;
     margin-bottom: 5px;
 }
 
 .home__greeting>p {
     font-size: 18px;
     font-weight: 700;
-    color: #f3f4f6;
+    color: #3a3e41;
 }
 
 .home__cards {
@@ -47,8 +47,8 @@
 .cards__left {
     padding: 25px;
     border-radius: 5px;
-    background: #ffffff;
-    box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+    background: #121212;
+    box-shadow: 5px 5px 13px #161616, -5px -5px 13px #161616;
 }
 
 .cards__left__title {
@@ -59,18 +59,18 @@
 
 .cards__left__title>div>h1 {
     font-size: 28px;
-    color: #2e4a66;
+    color: #b80eb2;
     margin-bottom: 5px;
 }
 
 .cards__left__title>div>p {
     font-size: 14px;
     font-weight: 700;
-    color: #a5aaad;
+    color: #3a3e41;
 }
 
 .cards__left__title>i {
-    color: #ffffff;
+    color: #3a3e41;
     font-size: 20px;
     background: #b80eb2;
     border-radius: 200px 0px 200px 200px;
@@ -90,8 +90,8 @@
 .cards__right {
     padding: 25px;
     border-radius: 5px;
-    background: #ffffff;
-    box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+    background: #121212;
+    box-shadow: 5px 5px 13px #161616, -5px -5px 13px #161616;
 }
 
 .cards__right__title {
@@ -102,18 +102,18 @@
 
 .cards__right__title>div>h1 {
     font-size: 28px;
-    color: #2e4a66;
+    color: #b80eb2;
     margin-bottom: 5px;
 }
 
 .cards__right__title>div>p {
     font-size: 14px;
     font-weight: 700;
-    color: #a5aaad;
+    color: #3a3e41;
 }
 
 .cards__right__title>i {
-    color: #ffffff;
+    color: #3a3e41;
     font-size: 20px;
     background: #b80eb2;
     border-radius: 200px 0px 200px 200px;
@@ -131,7 +131,7 @@
 
 
 .card__lef1 {
-    background: #d6d8d9;
+    background: #161616;
     color: #3a3e41;
     text-align: center;
     padding: 25px;
@@ -144,7 +144,7 @@
 }
 
 .card__right1 {
-    background: #d6d8d9;
+    background: #161616;
     color: #3a3e41;
     display: flex;
     align-items: center;
